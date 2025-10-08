@@ -20,22 +20,24 @@ cd Frontend
 
 WEBSITE-BAUMEISTER/ Frontend
 │
-├── node_modules
+├── node_modules/
 ├── src/
-│   └── component/
-│       └── footer.js
+│ └── components/
+│ └── Footer.js
 │
-├── App/
-│   └── index.html
+├── app/
+│ └── index.html
 │
-├── Css/
-│   ├── input.css
-│   └── output.css
+├── css/
+│ ├── input.css
+│ └── output.css
+│
+├── assets/
+│ └── images/
 │
 ├── LICENSE
 ├── package-lock.json
 ├── package.json
 ├── .gitignore
 └── README.md
-
 
